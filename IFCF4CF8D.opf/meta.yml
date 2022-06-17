@@ -1,0 +1,166 @@
+id: IFCF4CF8D
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T11:24:04.868004'
+last_modified: '2022-06-17T11:24:04.868009'
+parser: null
+source_metadata:
+  title: Buddhist Philosophy Series
+  language: bo
+  description: 'The following texts are available as part of our Buddhist Philosophy
+    series:'
+  volume:
+    f6149:
+      title: Synopsis of the Treasury of Abhidharma (Abhidharmakośa)
+      base_file: f6149.txt
+      order: 1
+      parent: Abhidharma
+    f936E:
+      title: Brief Analysis of the Five Aggregates
+      base_file: f936E.txt
+      order: 2
+      parent: Abhidharma
+    f2192:
+      title: A Brief Explanation of the Ten Virtues and Eighteen Elements
+      base_file: f2192.txt
+      order: 3
+      parent: Abhidharma
+    f0847:
+      title: Putting the Instruction on the Purification of Mental Activity into Practice
+      base_file: f0847.txt
+      order: 4
+      parent: Analytical Meditation
+    fCB13:
+      title: The Wheel of Analytical Meditation That Thoroughly Purifies Mental Activity
+      base_file: fCB13.txt
+      order: 5
+      parent: Analytical Meditation
+    f5EC9:
+      title: A Song for Travelling from Sikkim to Tibet
+      base_file: f5EC9.txt
+      order: 6
+      parent: Buddha Nature
+    f559E:
+      title: On the Yogācāra Treatises and Buddha Nature
+      base_file: f559E.txt
+      order: 7
+      parent: Buddha Nature
+    f3336:
+      title: A Brief Presentation of the Nine Vehicles
+      base_file: f3336.txt
+      order: 8
+      parent: Categories of Teaching
+    fCB63:
+      title: A Brief Overview of the Three Turnings and the Mantra Piṭaka of the Vidyādharas
+      base_file: fCB63.txt
+      order: 9
+      parent: Categories of Teaching
+    f2B33:
+      title: Commentary on Nāgārjuna's Verses on the Essence of Dependent Origination
+      base_file: f2B33.txt
+      order: 10
+      parent: Dependent Origination
+    f69DE:
+      title: Commentary on the Noble Essence of the Dharmadhātu
+      base_file: f69DE.txt
+      order: 11
+      parent: Dependent Origination
+    fB465:
+      title: Verses on the Heart of Dependent Origination
+      base_file: fB465.txt
+      order: 12
+      parent: Dependent Origination
+    f98EE:
+      title: On Knowable Objects
+      base_file: f98EE.txt
+      order: 13
+      parent: Logic and Epistemology
+    f4DD3:
+      title: The Sword of Wisdom for Thoroughly Ascertaining Reality
+      base_file: f4DD3.txt
+      order: 14
+      parent: Logic and Epistemology
+    f5E8A:
+      title: Conveying the Essence of the Middle Way of Consequence
+      base_file: f5E8A.txt
+      order: 15
+      parent: Middle Way
+    f6B07:
+      title: 'The Words of Candra: The Definitive Secret of the Great Middle Way of
+        Consequence Beyond Extremes, the Fundamental Intent of All the Tathāgatas'
+      base_file: f6B07.txt
+      order: 16
+      parent: Middle Way
+    f5558:
+      title: 'The Seed of Reasoning: Notes on the Five Great Logical Arguments of
+        the Middle Way'
+      base_file: f5558.txt
+      order: 17
+      parent: Middle Way
+    fB0F5:
+      title: 'Gateway to Learning: Four Great Logical Arguments of the Middle Way'
+      base_file: fB0F5.txt
+      order: 18
+      parent: Middle Way
+    fF10A:
+      title: Notes from Miscellaneous Writings
+      base_file: fF10A.txt
+      order: 19
+      parent: Pedagogy
+    f69C4:
+      title: Preliminary Points to be Explained When Teaching the Buddha's Word or
+        the Treatises
+      base_file: f69C4.txt
+      order: 20
+      parent: Pedagogy
+    f0D57:
+      title: 'The Vajra Mirror: Cutting through Doubts Concerning Self-Awareness'
+      base_file: f0D57.txt
+      order: 21
+      parent: Self-Awareness
+    f5445:
+      title: Ascertaining the Two Kinds of Selflessness
+      base_file: f5445.txt
+      order: 22
+      parent: Selflessness
+    f9643:
+      title: 'Gateway to Learning: Individual Selflessness'
+      base_file: f9643.txt
+      order: 23
+      parent: Selflessness
+    fB4C4:
+      title: A Brief Guide to the Stages and Paths of the Bodhisattvas
+      base_file: fB4C4.txt
+      order: 24
+      parent: Stages and Paths
+    f80A0:
+      title: 'Elucidating the Hidden Meaning: A Commentary on the Meaning of the Four
+        Mudrās'
+      base_file: f80A0.txt
+      order: 25
+      parent: Tantra
+    f3D83:
+      title: Elucidating the Essence of the Instructions for Entering the Three Gateways
+        to Liberation
+      base_file: f3D83.txt
+      order: 26
+      parent: Three Gateways to Liberation
+    f47BF:
+      title: 'The Excellent Path of the Great Vehicle: How to Meditate on the Three
+        Gateways to Liberation According to the Mahāyāna'
+      base_file: f47BF.txt
+      order: 27
+      parent: Three Gateways to Liberation
+    f1E94:
+      title: An Instruction on the View of the Mahāyāna – Clarifying the Two Truths
+      base_file: f1E94.txt
+      order: 28
+      parent: Two Truths
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
